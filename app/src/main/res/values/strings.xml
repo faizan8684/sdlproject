@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Steganography</string>
+    <string name="app_name">ImageStega</string>
     <string name="action_settings">Settings</string>
     <string name="encode">Hide a file</string>
     <string name="decode">Decode a file</string>
@@ -10,5 +10,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_decode">DecodeActivity</string>
-    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_image"><center>ImageActivity</center></string>
+    <string name="about_us">General Info</string>
 </resources>
